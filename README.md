@@ -54,9 +54,13 @@ Used for working on the project and implementing updates.
 - Move to new working Directory
 
   `cd Documents`
+  
   `mkdir Logistics-Manager`
+  
   `cd Logistics-Manager`
+  
   `git config --global user.name "LordFluffyJr"`
+  
   `git config --global user.email "jrsedorejr@gmail.com"`
 
 - Download project files
