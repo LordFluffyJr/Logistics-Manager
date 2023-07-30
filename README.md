@@ -61,6 +61,6 @@ Used for working on the project and implementing updates.
 
 - Download project files
 
-  `git clone https://github.com/NwayNway/test-repo-789.git`
+  `git clone https://github.com/LordFluffyJr/Logistics-Manager.git`
 
 
